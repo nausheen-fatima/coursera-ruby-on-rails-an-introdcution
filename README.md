@@ -1,1 +1,0 @@
-# coursera-ruby-on-rails-an-introdcution
